@@ -1,0 +1,4 @@
+bokeh>=0.12.0
+jupyter>=0.12.0
+python-louvain>=0.5
+networkx>=1.11
